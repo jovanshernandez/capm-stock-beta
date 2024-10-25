@@ -45,6 +45,10 @@ For each stock, beta is calculated as the slope of the linear regression line be
 ### 4. Display Results
 The beta values for each stock are printed to the console, providing insight into each stock’s market-related volatility.
 
+<img width="995" alt="image" src="https://github.com/user-attachments/assets/bbf47b69-d8da-4c2d-8c15-488b91bf7224">
+<img width="995" alt="image" src="https://github.com/user-attachments/assets/5c4d7af5-5ab5-4f08-80ed-76646373f25f">
+<img width="995" alt="image" src="https://github.com/user-attachments/assets/a61db95c-2c0e-41fd-9523-37359c597e89">
+
 ## Running the Script
 
 Ensure the `stocks_dataset.csv` file is in the same directory as the script, then execute:
