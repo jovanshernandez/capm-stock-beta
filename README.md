@@ -1,5 +1,7 @@
 # CAPM Stock Beta Calculator
 
+![image](https://github.com/user-attachments/assets/24912654-2d4b-4a3b-924d-8c89e4caef11)
+
 This script calculates the **beta** for various stocks based on the **Capital Asset Pricing Model (CAPM)**. CAPM uses beta to quantify a stock's volatility relative to the overall market (represented by the S&P 500 in this script). Beta values help investors understand the systematic risk of a stock and make more informed portfolio decisions.
 
 ## Prerequisites
