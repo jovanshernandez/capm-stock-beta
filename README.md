@@ -46,9 +46,8 @@ For each stock, beta is calculated as the slope of the linear regression line be
 The beta values for each stock are printed to the console, providing insight into each stock’s market-related volatility.
 
 <img width="995" alt="image" src="https://github.com/user-attachments/assets/bbf47b69-d8da-4c2d-8c15-488b91bf7224">
-![image](https://github.com/user-attachments/assets/2b9e27f2-c394-44c5-b620-b1a9d33f291e)
-![image](https://github.com/user-attachments/assets/23ae406c-b059-46a3-8f25-eb63a50deec8)
-
+<img width="995" alt="image" src="https://github.com/user-attachments/assets/2b9e27f2-c394-44c5-b620-b1a9d33f291e">
+<img width="995" alt="image" src="https://github.com/user-attachments/assets/23ae406c-b059-46a3-8f25-eb63a50deec8">
 
 ## Running the Script
 
