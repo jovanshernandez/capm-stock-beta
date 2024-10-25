@@ -30,6 +30,8 @@ The script expects a CSV file named `stocks_dataset.csv` containing historical d
 ### 1. Data Normalization
 The `normalize()` function standardizes stock prices relative to their initial values. This step allows for an effective comparison by placing all stock prices on a uniform scale.
 
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/f2a01eb5-5ed2-4299-8ace-849a56f1acac">
+
 ### 2. Daily Returns Calculation
 The `daily_return()` function calculates each stock's daily percentage change, which is essential for CAPM. CAPM requires daily returns to analyze how each stock's returns respond to market changes.
 
